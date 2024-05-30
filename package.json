@@ -1,0 +1,16 @@
+{
+  "name": "python-chatroom",
+  "version": "1.0.0",
+  "description": "Uses Flask Sockets to create a live chat room application.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buildcss": "npx tailwindcss -i ./src/static/css/input.css -o ./src/static/css/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
